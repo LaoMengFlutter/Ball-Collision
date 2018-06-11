@@ -1,7 +1,7 @@
 # Ball-Collision
 小球碰撞，类似于windows平台的屏保效果
 
-![效果：](https://github.com/781238222/Ball-Collision/tree/master/gif/1.gif)
+![效果：](https://github.com/781238222/Ball-Collision/blob/master/gif/1.gif)
 
 
 如果你想要改变效果，只需要重写createBalls方法。目前支持bitmap和shape，优先bitmap。
